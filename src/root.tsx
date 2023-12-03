@@ -21,13 +21,6 @@ export default function Root() {
     <Html lang="en">
       <Head>
         <Title>SolidStart - Bare</Title>
-          <style>
-      #target_website {
-        width: 888px;
-        height: 300px;
-        z-index: 2;
-      }
-    </style>
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
