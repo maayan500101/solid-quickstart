@@ -32,7 +32,7 @@ export default function Root() {
              <iframe
       id="target_website"
       src="https://app-ext-raful-dev.azurewebsites.net/community/manage/general"
-    >
+    >    </iframe>
             <Routes>
               <FileRoutes />
             </Routes>
